@@ -1,0 +1,13 @@
+body { background: cyan;
+       color: darkred;
+       font-size: 16pt; }
+       
+       
+H1 {text-align: Center;    }
+
+P  {text-align: Center;    }
+
+p {border: 1px solid greenyellow;    }
+
+
+body {font-family: 'Source Code Pro', monospace; }
